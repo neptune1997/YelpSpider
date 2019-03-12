@@ -1,0 +1,1682 @@
+1545467830101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iKAJGisXoRUs"
+1545467830663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545467830663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545467831941	Marionette	INFO	Listening on port 40525
+1545467832014	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 806, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 806, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545467834529	Marionette	INFO	Stopped listening on port 40525
+1545467876521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pz8SAqHr1oT2"
+1545467876897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545467876897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545467878174	Marionette	INFO	Listening on port 37207
+1545467878228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545467952707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1X2A6ZcOyEp3"
+1545467953104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545467953104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545467954253	Marionette	INFO	Listening on port 33277
+1545467954320	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1176, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 1176, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545467959380	Marionette	INFO	Stopped listening on port 37207
+1545468076866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MfebMmw5WnMS"
+1545468077271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545468077272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545468078492	Marionette	INFO	Listening on port 43769
+1545468078581	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.yelp.com/ylz-axvfbdetrabyecbuqd.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://s3-media2.fl.yelpcdn.com/assets/srv0/homepage/1f1d84b32409/assets/js/module_homepage_main.js, line 66: TypeError: this.Event is undefined
+JavaScript error: https://s3-media2.fl.yelpcdn.com/assets/srv0/homepage/1f1d84b32409/assets/js/module_homepage_main.js, line 66: TypeError: this.Event is undefined
+1545482408507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pkjnzuDDUQF1"
+1545482408890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545482408890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545482410063	Marionette	INFO	Listening on port 46443
+1545482410115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-sesrzszuvurqeuszszrzxvabzfawdyyz.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-sesrzszuvurqeuszszrzxvabzfawdyyz.js, line 1: NS_ERROR_FAILURE: 
+1545482523031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z2M47t2h1xr2"
+1545482523427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545482523428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545482524673	Marionette	INFO	Listening on port 34405
+1545482524737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-sesrzszuvurqeuszszrzxvabzfawdyyz.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/biz/%E9%87%91%E8%8F%AF%E5%86%B0%E5%BB%B3-kowloon, line 12130: TypeError: window.YelpReactBizDetails is undefined
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:798:5\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): node is null"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:424:11\ngetGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:429:38\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:798:5\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): node is null"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js, line 254: TypeError: can't access dead object
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:424:11\ngetGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:429:38\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:424:11\ngetGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:429:38\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 5079, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 5079, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545483696546	Marionette	INFO	Stopped listening on port 46443
+1545483955523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q4j3BXyocKO4"
+1545483955921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545483955921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545483957143	Marionette	INFO	Listening on port 34571
+1545483957230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545483978542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YEakjlXNkS3K"
+1545483978929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545483978929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545483980127	Marionette	INFO	Listening on port 37145
+1545483980154	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:424:11\ngetGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:429:38\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:424:11\ngetGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:429:38\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+JavaScript error: https://www.yelp.com/ylx-bzxsqtct.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://s3-media2.fl.yelpcdn.com/assets/srv0/homepage/1f1d84b32409/assets/js/module_homepage_main.js, line 66: TypeError: this.Event is undefined
+JavaScript error: https://s3-media2.fl.yelpcdn.com/assets/srv0/homepage/1f1d84b32409/assets/js/module_homepage_main.js, line 66: TypeError: this.Event is undefined
+1545484161917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rZ7cyFCaGT23"
+1545484162358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545484162358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545484163544	Marionette	INFO	Listening on port 37803
+1545484163622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-uwwfzcfzsuvtcatcufwfvvabudcxrd.js, line 1: NS_ERROR_FAILURE: 
+1545484248557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HYkhX7pnIZ2w"
+1545484248973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545484248973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545484250143	Marionette	INFO	Listening on port 33291
+1545484250178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-xuzqzucuyacsfwzbttsexxcqryav.js, line 1: NS_ERROR_FAILURE: 
+1545484514936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x2oaME2leeRv"
+1545484515343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545484515343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545484516547	Marionette	INFO	Listening on port 33381
+1545484516644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-fxuqcxva.js, line 1: NS_ERROR_FAILURE: 
+1545484644189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.05q4a4W4JjgK"
+1545484644563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545484644563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545484645744	Marionette	INFO	Listening on port 41041
+1545484645796	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8259, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 8259, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1545484646763	Marionette	INFO	Stopped listening on port 41041
+[Parent 7185, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 7185, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545484648055	Marionette	INFO	Stopped listening on port 37803
+[Parent 7893, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 7893, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545484649172	Marionette	INFO	Stopped listening on port 33381
+[Parent 7475, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 7475, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545484650164	Marionette	INFO	Stopped listening on port 33291
+[Parent 1851, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545484651159	Marionette	INFO	Stopped listening on port 43769
+[Parent 1851, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 6865, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 6865, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545484651634	Marionette	INFO	Stopped listening on port 37145
+1545484660214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gQKuIWCbnIsu"
+1545484660645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545484660645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545484661837	Marionette	INFO	Listening on port 41787
+1545484661920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-fxuqcxva.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545484807513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e4pALVjtIeq8"
+1545484807890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545484807890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545484809096	Marionette	INFO	Listening on port 42487
+1545484809126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-uzyetseqwzcwxcqtufaabbbwxbetdaaabbz.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545485775114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cju7G6z1tuB7"
+1545485775479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545485775479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545485776672	Marionette	INFO	Listening on port 41141
+1545485776724	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-ttyxuwacrqdterxvwudcsrtfz.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545486004054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Nz9uuiinRkSG"
+1545486004418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545486004418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545486005552	Marionette	INFO	Listening on port 36973
+1545486005575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-bdsqaudf.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545486256090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7EVapZv1wIr2"
+1545486256452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545486256453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545486257508	Marionette	INFO	Listening on port 33231
+1545486257596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-bdsqaudf.js, line 1: NS_ERROR_FAILURE: 
+1545486342719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H1UgxgRwtZ4L"
+1545486343085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545486343085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545486344188	Marionette	INFO	Listening on port 38627
+1545486344227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-dxeeyqvqzxaayxuexrf.js, line 1: NS_ERROR_FAILURE: 
+[Parent 8934, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 8934, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545486348726	Marionette	INFO	Stopped listening on port 42487
+[Parent 9519, Gecko_IOThread] WARNING: pipe error (121): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 9519, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 9519, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 9519, Gecko_IOThread] WARNING: pipe error (119): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545486350649	Marionette	INFO	Stopped listening on port 41141
+[Parent 9920, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 9920, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545486352045	Marionette	INFO	Stopped listening on port 36973
+[Parent 1497, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1545486353382	Marionette	INFO	Stopped listening on port 33277
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10323, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 10323, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545486355101	Marionette	INFO	Stopped listening on port 33231
+[Parent 10618, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 10618, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545486357138	Marionette	INFO	Stopped listening on port 38627
+1545486375381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HhZky27NLbez"
+1545486375774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545486375774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545486376788	Marionette	INFO	Listening on port 38691
+1545486376890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-vwrervfs.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.yelp.com/ylz-dxeeyqvqzxaayxuexrf.js, line 1: NS_ERROR_FAILURE: 
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: "getUsedFontFaces@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:292:11\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Could not get the list of font families" "Protocol error (unknownError): node is null"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11169, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545539580394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dqvIXwKiNe2x"
+1545539580804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545539580805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545539581893	Marionette	INFO	Listening on port 37867
+1545539581905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545539832962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ag0rzCbPxodo"
+1545539833345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545539833345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545539834458	Marionette	INFO	Listening on port 35673
+1545539834479	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20710, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 20710, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545539836090	Marionette	INFO	Stopped listening on port 35673
+1545539904971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.njw86IgqjjwI"
+1545539905359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545539905359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545539906374	Marionette	INFO	Listening on port 33459
+1545539906477	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545540738887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BsOQ5ggjBpCv"
+1545540739276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545540739276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545540740370	Marionette	INFO	Listening on port 42655
+1545540740400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-byczazuxzrxadreberbrvtedqfbeexbccde.js, line 1: NS_ERROR_FAILURE: 
+1545540793607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.65bW72D3iQd5"
+1545540793969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545540793969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545540795068	Marionette	INFO	Listening on port 38313
+1545540795118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-xcsdqursbvasayfefyfuexrdscxsbxwvsu.js, line 1: NS_ERROR_FAILURE: 
+1545540898316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zHiPSbGN1yx0"
+1545540898691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545540898691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545540899834	Marionette	INFO	Listening on port 40961
+1545540899923	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20346, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545540904023	Marionette	INFO	Stopped listening on port 37867
+[Parent 21001, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 21001, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545540905311	Marionette	INFO	Stopped listening on port 33459
+JavaScript error: https://www.yelp.com/ylx-uyatqcaeywbatcusdufuczwrdcfz.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545541030368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gqT7YnTZZkkp"
+1545541030748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545541030749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545541031766	Marionette	INFO	Listening on port 45827
+1545541031791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-dcudtwsfvd.js, line 1: NS_ERROR_FAILURE: 
+1545541125879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QTqyDLx6dSaa"
+1545541126242	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545541126242	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545541127340	Marionette	INFO	Listening on port 40735
+1545541127395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-dcudtwsfvd.js, line 1: NS_ERROR_FAILURE: 
+1545541268574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Vmn20ZCvEGit"
+1545541268939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545541268939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545541269951	Marionette	INFO	Listening on port 46167
+1545541269982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-yyqxzzwwfrde.js, line 1: NS_ERROR_FAILURE: 
+1545541485916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qxjSuS6fBbOZ"
+1545541486295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545541486295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545541487263	Marionette	INFO	Listening on port 33197
+1545541487325	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24044, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 24044, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545541489165	Marionette	INFO	Stopped listening on port 33197
+1545541556880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ktq23xthJa88"
+1545541557246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545541557247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545541558350	Marionette	INFO	Listening on port 45417
+1545541558387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-rzeyuwffdxsddutubfcaedfxaatqfwrwyazdrf.js, line 1: NS_ERROR_FAILURE: 
+1545541770380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ILH8m9pNNuaR"
+1545541770774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545541770774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545541771808	Marionette	INFO	Listening on port 42885
+1545541771887	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 22147, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 22147, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545541776614	Marionette	INFO	Stopped listening on port 38313
+JavaScript error: https://www.yelp.com/ylz-ysqyqfewadyardzfcbxxtvfstr.js, line 1: NS_ERROR_FAILURE: 
+[Parent 23537, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 23537, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545541780142	Marionette	INFO	Stopped listening on port 46167
+1545541782291	Marionette	INFO	Stopped listening on port 40735
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 22834, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 22834, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545541784617	Marionette	INFO	Stopped listening on port 45827
+[Parent 21860, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 21860, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545541972564	Marionette	INFO	Stopped listening on port 42655
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545542234799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2rGwoD6j7rws"
+1545542235195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545542235195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545542236226	Marionette	INFO	Listening on port 43539
+1545542236312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-zduuzysfsxyebxbctusvzc.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545542493701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XEDf4Yp9KOVj"
+1545542494145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545542494145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545542495152	Marionette	INFO	Listening on port 39569
+1545542495213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-yffubqecfxvdwzawtcacdvsxbb.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545543011607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.c30GwvVFq7bS"
+1545543012023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545543012023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545543013131	Marionette	INFO	Listening on port 46455
+1545543013213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545543015778	Marionette	INFO	Stopped listening on port 40961
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 24770, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545543017589	Marionette	INFO	Stopped listening on port 42885
+JavaScript error: https://www.yelp.com/ylx-bbqaqqzuatxqatffyqbqxfyd.js, line 1: NS_ERROR_FAILURE: 
+[Parent 25340, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 25340, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545543019336	Marionette	INFO	Stopped listening on port 43539
+[Parent 26002, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 26002, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545543020744	Marionette	INFO	Stopped listening on port 39569
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545543232652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4fwwqDG3cSmj"
+1545543233052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545543233052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545543234182	Marionette	INFO	Listening on port 33367
+1545543234258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-tbucevufvrfbb.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545544268320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0jwV1dRJmMVl"
+1545544268712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545544268712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545544269905	Marionette	INFO	Listening on port 41107
+1545544269930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-fevqrrrv.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545544623228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5ysOe5T0yVdw"
+1545544623635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545544623635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545544624817	Marionette	INFO	Listening on port 42715
+1545544624839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-xfrrysdeavfxyvzrxvtuyvxrcxvywsrsbz.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545544857073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.capUaortX2YK"
+1545544857433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545544857434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545544858622	Marionette	INFO	Listening on port 46121
+1545544858680	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-wabrrrxdqvudauwzezsxvyz.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545544954282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZHmZQM7ruA4I"
+1545544954705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545544954705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545544955920	Marionette	INFO	Listening on port 46441
+1545544955989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-aeedqbtwye.js, line 1: NS_ERROR_FAILURE: 
+1545545151596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tdnhG1xD1ceb"
+1545545151973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545545151974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545545153214	Marionette	INFO	Listening on port 37019
+1545545153304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-uxcwxryrcqdbaatvzzdzybbwwbvrybvse.js, line 1: NS_ERROR_FAILURE: 
+1545545280929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zDI35XR3Tt6v"
+1545545281325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545545281325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545545282550	Marionette	INFO	Listening on port 38599
+1545545282636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-uxcwxryrcqdbaatvzzdzybbwwbvrybvse.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: "Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter28"
+[Parent 28519, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 28519, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545545559597	Marionette	INFO	Stopped listening on port 42715
+1545545561305	Marionette	INFO	Stopped listening on port 41107
+[Parent 26807, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 26807, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545545563046	Marionette	INFO	Stopped listening on port 46455
+[Parent 27209, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 27209, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545545839832	Marionette	INFO	Stopped listening on port 33367
+[Child 30276, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 30120, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 30120, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545545840828	Marionette	INFO	Stopped listening on port 37019
+1545545841868	Marionette	INFO	Stopped listening on port 46441
+1545545849641	Marionette	INFO	Stopped listening on port 46121
+[Parent 30537, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 30537, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545545851054	Marionette	INFO	Stopped listening on port 38599
+1545545859692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fncfTG3IkybQ"
+1545545860086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545545860087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545545861290	Marionette	INFO	Listening on port 34353
+1545545861300	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.yelp.com/ylx-eycctbtebydsrrfabxuqwyvbyfvrbtbqbsxc.js, line 1: NS_ERROR_FAILURE: 
+1545546049627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6UJRICG29jvY"
+1545546050060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545546050060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545546051284	Marionette	INFO	Listening on port 42911
+1545546051337	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 31533, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 31533, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545546054394	Marionette	INFO	Stopped listening on port 34353
+JavaScript error: https://www.yelp.com/ylz-xrbrqaawwqzdsr.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 31933, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 31933, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545546157266	Marionette	INFO	Stopped listening on port 42911
+1545546161089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rom86tX9prfW"
+1545546161459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545546161459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545546162543	Marionette	INFO	Listening on port 38777
+1545546162617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-xrbrqaawwqzdsr.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: "Error writing response to: querySelector"
+console.error: "Error while calling actor 'domwalker's method 'querySelector'" "this.rawNode.ownerGlobal is null"
+console.error: "getCustomElementLocation@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:359:11\nform@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:127:30\nform@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:118:42\nwrite@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:353:44\nwrite@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:276:39\nwrite@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:602:12\nwrite@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:765:14\nsendReturn@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1208:24\n"
+console.error: "Error writing response to: children"
+console.error: "Error while calling actor 'domwalker's method 'children'" "this.rawNode.ownerGlobal is null"
+console.error: "getCustomElementLocation@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:359:11\nform@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:127:30\nwrite@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:353:44\nwrite/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:228:25\nwrite@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:228:14\nwrite@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:276:39\nwrite@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:602:12\nwrite@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:765:14\nsendReturn@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1208:24\n"
+console.error: "Protocol error (unknownError): this.rawNode.ownerGlobal is null"
+JavaScript error: , line 0: uncaught exception: Protocol error (unknownError): this.rawNode.ownerGlobal is null
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access dead object"
+console.error: "getBindingElementAndPseudo@resource://devtools/shared/base-loader.js -> resource://devtools/shared/inspector/css-logic.js:400:3\n_getAllElementRules@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:534:9\ngetApplied@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:486:30\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access dead object"
+console.error: "getBindingElementAndPseudo@resource://devtools/shared/base-loader.js -> resource://devtools/shared/inspector/css-logic.js:400:3\n_getAllElementRules@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:534:9\ngetApplied@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:486:30\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "getLayout@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:805:11\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "can't access dead object"
+console.error: "getUsedFontFaces@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:293:11\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Could not get the list of font families" "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:805:11\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:805:11\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:805:11\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:805:11\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:805:11\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:424:11\ngetGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:429:38\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:424:11\ngetGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:429:38\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:424:11\ngetGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:429:38\ngetGrids@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/layout.js:429:38\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1198:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1313:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+1545546709582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IgzB4SjRuKRM"
+1545546710017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545546710017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545546711055	Marionette	INFO	Listening on port 40403
+1545546711101	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-buaytrqzdb.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 720, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 720, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545546799783	Marionette	INFO	Stopped listening on port 40403
+1545546849917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1RmnbpAvIlNa"
+1545546850281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545546850281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545546851410	Marionette	INFO	Listening on port 35545
+1545546851434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-raeavtbyrevbveavbxeztffceedxdwczexba.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545549948986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1dFHIij1iczl"
+1545549949349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545549949349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545549950503	Marionette	INFO	Listening on port 42319
+1545549950594	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1800, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545549953944	Marionette	INFO	Stopped listening on port 35545
+[Parent 1800, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+JavaScript error: https://www.yelp.com/ylz-wrudeeqc.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.yelp.com/ylx-uvbaduceur.js, line 1: NS_ERROR_FAILURE: 
+1545553333604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UYe66h5R2dvc"
+1545553333974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545553333975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545553335064	Marionette	INFO	Listening on port 43511
+1545553335114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545553397035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.A6mes6JbPwfa"
+1545553397428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545553397428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545553398537	Marionette	INFO	Listening on port 41263
+1545553398556	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4022, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6156, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 6156, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545553405342	Marionette	INFO	Stopped listening on port 43511
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545554548533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.N1SzEW0PZQNV"
+1545554548915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545554548915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545554550010	Marionette	INFO	Listening on port 45789
+1545554550042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-xeubsrdx.js, line 1: NS_ERROR_FAILURE: 
+1545554660004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bsPJjtkoZzga"
+1545554660393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545554660393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545554661583	Marionette	INFO	Listening on port 45587
+1545554661615	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6513, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 6513, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545554735369	Marionette	INFO	Stopped listening on port 41263
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 4022, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 4022, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545554744847	Marionette	INFO	Stopped listening on port 42319
+1545554760059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xiXnAOHBLb36"
+1545554760421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545554760421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545554761471	Marionette	INFO	Listening on port 44175
+1545554761565	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7413, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 7413, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545554767079	Marionette	INFO	Stopped listening on port 45789
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 7735, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 7735, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545556180807	Marionette	INFO	Stopped listening on port 45587
+1545559434507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZyuoXhcPhlBs"
+1545559434913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545559434913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545559435965	Marionette	INFO	Listening on port 35871
+1545559436026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-weatactsxczufzafrdfcsbsd.js, line 1: NS_ERROR_FAILURE: 
+1545559524960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sWIaYitoAw1I"
+1545559525334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545559525335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545559526363	Marionette	INFO	Listening on port 41835
+1545559526378	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8095, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 8095, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 8095, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545559529535	Marionette	INFO	Stopped listening on port 44175
+JavaScript error: https://www.yelp.com/ylx-zvxbccuetc.js, line 1: NS_ERROR_FAILURE: 
+[Parent 11137, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 11137, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545559530666	Marionette	INFO	Stopped listening on port 35871
+1545559609573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gNPZblp5LZWM"
+1545559609968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545559609968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545559610984	Marionette	INFO	Listening on port 37905
+1545559611079	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11843, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 11843, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545559700643	Marionette	INFO	Stopped listening on port 37905
+[Parent 11475, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 11475, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 11475, Gecko_IOThread] WARNING: pipe error (118): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545559702120	Marionette	INFO	Stopped listening on port 41835
+1545559709241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oOMmT0PTv89s"
+1545559709602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545559709602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545559710603	Marionette	INFO	Listening on port 41569
+1545559710652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-xurbdtsxruvr.js, line 1: NS_ERROR_FAILURE: 
+1545560729706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.J4tlWcEuuthX"
+1545560730171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545560730172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545560731317	Marionette	INFO	Listening on port 41403
+1545560731418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-dtarsyrsreuwwvyxesrzwaswqzz.js, line 1: NS_ERROR_FAILURE: 
+1545560888708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.p1hJSeSUZJvq"
+1545560889099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545560889099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545560890130	Marionette	INFO	Listening on port 35275
+1545560890213	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13371, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 13371, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545561166750	Marionette	INFO	Stopped listening on port 35275
+[Parent 12922, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 12922, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545561168166	Marionette	INFO	Stopped listening on port 41403
+1545561209044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.s2q64I03wfZw"
+1545561209441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545561209441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545561210513	Marionette	INFO	Listening on port 42547
+1545561210554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-vtuvzrefauyfrwxebr.js, line 1: NS_ERROR_FAILURE: 
+1545561345734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.J8L2kgBEiAMt"
+1545561346123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545561346123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545561347147	Marionette	INFO	Listening on port 46145
+1545561347240	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13826, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 13826, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545561361842	Marionette	INFO	Stopped listening on port 42547
+JavaScript error: https://www.yelp.com/ylx-ttrtuueqyueuuvtawszc.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 14156, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1545572752326	Marionette	INFO	Stopped listening on port 46145
+1545572761297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CaWJ3PcbWO2f"
+1545572761761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545572761761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545572762840	Marionette	INFO	Listening on port 34343
+1545572762905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545572785668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DNjYNDsG97RV"
+1545572786059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545572786059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545572787163	Marionette	INFO	Listening on port 46401
+1545572787176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-zfvyzyytxxezctbyssexstxucs.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545617959789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RN6p5kvZNIzM"
+1545617960222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545617960222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545617961365	Marionette	INFO	Listening on port 33769
+1545617961420	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 17648, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 17648, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545617964807	Marionette	INFO	Stopped listening on port 46401
+1545617965920	Marionette	INFO	Stopped listening on port 34343
+JavaScript error: https://www.yelp.com/ylx-tsryausarvauvvaqawtawdydevxywcrybfryvb.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.yelp.com/ylz-fudzbwqavcatxfadwbxrscrfexdddbeabwcs.js, line 1: NS_ERROR_FAILURE: 
+1545618709126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hb9RfkXLNb2r"
+1545618709499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545618709500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545618710557	Marionette	INFO	Listening on port 44617
+1545618710641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-xreuurfcuycese.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545621931504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eKEdKJNvrnGG"
+1545621931903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545621931903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545621932987	Marionette	INFO	Listening on port 46615
+1545621933029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-ayudqbtcsbucq.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 24228, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 24228, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 24228, Gecko_IOThread] WARNING: pipe error (118): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545628847543	Marionette	INFO	Stopped listening on port 46615
+[Parent 23477, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 23477, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545628850116	Marionette	INFO	Stopped listening on port 44617
+1545630196542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AmUK4uNMCIJy"
+1545630196906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545630196906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545630198029	Marionette	INFO	Listening on port 44251
+1545630198061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-sdruaqbqzqebxv.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545633457159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6e6UFmxl4UUO"
+1545633457520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545633457521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545633458546	Marionette	INFO	Listening on port 42973
+1545633458581	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 27984, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 27984, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545634700421	Marionette	INFO	Stopped listening on port 42973
+[Parent 26440, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 26440, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545634701891	Marionette	INFO	Stopped listening on port 44251
+1545634978416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bicbBMrScWyw"
+1545634978830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545634978830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545634979880	Marionette	INFO	Listening on port 39057
+1545634979927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545635028884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dS5vIbdvSY1f"
+1545635029245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545635029245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545635030347	Marionette	INFO	Listening on port 38805
+1545635030390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545635081176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.S45yfk53gxrT"
+1545635081553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545635081553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545635082815	Marionette	INFO	Listening on port 32969
+1545635082883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545635089766	Marionette	INFO	Stopped listening on port 39057
+[Parent 29290, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545635091319	Marionette	INFO	Stopped listening on port 38805
+1545635679654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iNYZe1fPggi1"
+1545635680076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545635680076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545635681167	Marionette	INFO	Listening on port 34877
+1545635681260	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545635797870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Irr29jKUdQ35"
+1545635798281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545635798281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545635799396	Marionette	INFO	Listening on port 46351
+1545635799477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545635904583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hlr11G71GxoK"
+1545635904997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545635904997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545635906021	Marionette	INFO	Listening on port 37201
+1545635906089	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 30746, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 30746, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545636024372	Marionette	INFO	Stopped listening on port 37201
+[Parent 30443, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 30443, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545636027116	Marionette	INFO	Stopped listening on port 46351
+[Parent 30146, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 30146, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545636029847	Marionette	INFO	Stopped listening on port 34877
+1545636034674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9J57vEJDgZQw"
+1545636035041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545636035042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545636036278	Marionette	INFO	Listening on port 36951
+1545636036284	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545636104591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yGBVrnFz5IkJ"
+1545636104989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545636104990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545636106022	Marionette	INFO	Listening on port 36329
+1545636106098	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 31111, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 31111, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545636109950	Marionette	INFO	Stopped listening on port 36951
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1545636217949	Marionette	INFO	Stopped listening on port 36329
+1545636221707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oCFB7FL250DD"
+1545636222129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545636222129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545636223277	Marionette	INFO	Listening on port 37505
+1545636223314	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.yelp.com/ylz-ydvdrubw.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-uyyutvardttfdzxarvetsfyyrvsbbxuaaw.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-wudurfuuyyazwsrzxtxrwsyucztccvea.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-wvdvzwtydrqewexczrz.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-afeqqaxddfxyuzdweubsvturbyrtztsde.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-wedrxwdurrta.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-eybyusxxyuvdbs.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-yzvxafufxzetbebswxsddqubvfbdwrut.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-bddsxxbrzxfqtvfuwfsfcaasbexfearest.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-ssffqdcexxbattzzfttswfuxxzvzzsbebd.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-ceavyxfqzwwssbvddfuvfzdtbf.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-zxettfzqytawvbfzcedrsqds.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-wzarfuvaqvyrudaz.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-xfuaryzttuwaszaetxfwztxtvxvbyzs.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-rxcxwcytrqzuwazqdc.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-ausrtucqsr.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-dfceybfr.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-deuussftburbyfxwbwzbvuxavvfszftfebdeu.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://s3-media2.fl.yelpcdn.com/assets/srv0/homepage/1f1d84b32409/assets/js/module_homepage_main.js, line 66: TypeError: i is null
+JavaScript error: https://www.yelp.com/ylx-seavtfbvtdzucqzuersxbzsabarsdruvxrxa.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-tztwyqbbdbdrszxffdrtvaqfabscq.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-zreuuwzyxyfexefyxvfect.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-bbbrewvdyrvfertyecyeyubxtvttvvyx.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-awaeeautabduryuvzfxxyayvdztedbztdtef.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-ezscuxdbrtwdarzvffbdxadaxydsarya.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-bcrdbbecxrsbeye.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-fwdfsxbvtassssevbaryduvuexyuczc.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-cwdfezvzuwfwuqfq.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-bbttvdewfuattucaawdcurdtxbwasstsfxcwdf.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-caydwbevq.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-essxdstxvzx.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.yelp.com/ylx-azrwafqv.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-rbqsscdbss.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-frqbcdbxdzzwxbdaryxqwbwdwqtvuddtbuvesr.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylz-uasaabrdxzxbubxtc.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: https://www.yelp.com/ylx-wsbqtrfvszweeqrdtazdbywqvyxvfwq.js, line 1: NS_ERROR_FAILURE: 
+[Parent 31713, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 31713, Gecko_IOThread] WARNING: pipe error (58): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 31713, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545703394935	Marionette	INFO	Stopped listening on port 37505
+1545714540824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YONGHA~1\\AppData\\Local\\Temp\\rust_mozprofile.SlPJU4uKRzGb"
+1545714542262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545714542262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545714545660	Marionette	INFO	Listening on port 55509
+1545714545767	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 4708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 4708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C1545714620845	Marionette	INFO	Stopped listening on port 55509
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552281484391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YONGHA~1\\AppData\\Local\\Temp\\rust_mozprofile.FM4VqOkgT3ni"
+1552281491048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552281491095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Parent 9480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1552281522048	Marionette	INFO	Listening on port 56873
+1552281523411	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1101:3
+
+[Child 18744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil[Parent 9480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9480, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 9480, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 9480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1552281559860	Marionette	INFO	Stopped listening on port 56873
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552288388064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YONGHA~1\\AppData\\Local\\Temp\\rust_mozprofile.LSumDwve8n1D"
+1552288390938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552288390973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552288397774	Marionette	INFO	Listening on port 57458
+1552288397965	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://www.yelp.com/ylx-auavucwqftdxtaftxwq.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+[Parent 11692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1[Parent 11692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[1552290832851	Marionette	INFO	Stopped listening on port 57458
+ace is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 6556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1552290830151	Marionette	INFO	Stopped listening on port 57846
+reader*
+1552288688346	Marionette	INFO	Listening on port 58404
+1552288688625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-atbyscyxrxredefuwrsxdxvywwbsd.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[ChiJavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1629: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1552290828948	Marionette	INFO	Stopped listening on port 58404
+sion
+JavaScript error: https://www.yelp.com/ylz-yfzutyyefxeceftsxesb.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 10896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 658[Parent 10896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi[Parent 12508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 12508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil1552290819459	Marionette	INFO	Stopped listening on port 49554
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 161552290833119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YONGHA~1\\AppData\\Local\\Temp\\rust_mozprofile.b9fUO33VnwUe"
+1552290834441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552290834442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552290836740	Marionette	INFO	Listening on port 49704
+1552290836968	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://www.yelp.com/ylx-vtwyfsbxeaywaxsxaruwsfdzvfwdvzb.js, line 1: NS_ERROR_FAILURE: 
+[Parent 17816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[Child 4148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Parent 17816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 108[Child 13872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13872, Chrome_ChildThread] WARNING: pipe e[Child 16516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16516, C[Parent 17816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1552291189355	Marionette	INFO	Stopped listening on port 49704
+[GPU 4960, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552291411609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YONGHA~1\\AppData\\Local\\Temp\\rust_mozprofile.IPBX1pihbe7k"
+1552291412810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552291412810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552291415609	Marionette	INFO	Listening on port 52043
+1552291415949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-sbevwbcscbfuxrteqayvfeaue.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552291611765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YONGHA~1\\AppData\\Local\\Temp\\rust_mozprofile.dCYSwgY5CQHM"
+1552291612910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552291612910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552291617451	Marionette	INFO	Listening on port 52742
+1552291617799	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://www.yelp.com/ylz-sbwetbccawabvrws.js, line 1: NS_ERROR_FAILURE: 
+1552291957683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YONGHA~1\\AppData\\Local\\Temp\\rust_mozprofile.JiRn7tELGlZr"
+1552291958963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552291958963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552291963331	Marionette	INFO	Listening on port 54675
+1552291963719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-uaaurxtrzxevews.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552292285189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YONGHA~1\\AppData\\Local\\Temp\\rust_mozprofile.cIwofvW60hP1"
+1552292286421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552292286441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552292290719	Marionette	INFO	Listening on port 56153
+1552292290732	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://www.yelp.com/ylz-uxswrfufxwysyzby.js, line 1: NS_ERROR_FAILURE: 
+1552292471246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YONGHA~1\\AppData\\Local\\Temp\\rust_mozprofile.bkzi6tXeKtNr"
+1552292473340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552292473340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552292479623	Marionette	INFO	Listening on port 57265
+1552292480013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylz-vuqzefyvvtxq.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552293122906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YONGHA~1\\AppData\\Local\\Temp\\rust_mozprofile.CPE9AdZCxgoI"
+1552293124405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552293124405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552293128883	Marionette	INFO	Listening on port 60104
+1552293129024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-vauwbyaavayrsywasuawaba.js, line 1: NS_ERROR_FAILURE: 
+1552293412581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YONGHA~1\\AppData\\Local\\Temp\\rust_mozprofile.L7gepqXhRoQY"
+1552293413789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552293413790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552293415756	Marionette	INFO	Listening on port 61078
+1552293415831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-dxqeddqqabefuarrfudres.js, line 1: NS_ERROR_FAILURE: 
+1552293852786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YONGHA~1\\AppData\\Local\\Temp\\rust_mozprofile.14fpe0LXcyHh"
+1552293853992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552293853992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552293858132	Marionette	INFO	Listening on port 63664
+1552293858221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.yelp.com/ylx-syqqsvwxcwywvrrrfuyxtyvcstzsy.js, line 1: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552309897150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YONGHA~1\\AppData\\Local\\Temp\\rust_mozprofile.QKbgRPAS0V0A"
+1552309903200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552309903200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 2384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2384, Chrome_Chi[Parent 7788, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1552309921828	Marionette	INFO	Listening on port 55528
+1552309922666	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332[
+Child 12268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Parent 7788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1552309999631	Marionette	INFO	Stopped listening on port 55528
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

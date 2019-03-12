@@ -1,0 +1,6 @@
+use python3 to execute main.py
+some required package are shown in requirements.txt
+all the data preserve in mydb.db
+!!! if you execute main.py the database will be erased. !!!
+
+

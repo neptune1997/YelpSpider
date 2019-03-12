@@ -1,0 +1,179 @@
+
+
+
+
+
+
+
+
+		.domian-block-box {
+			width: 468px;
+			margin: 128px auto;
+			font-size: 16px;
+			color: #222;
+			line-height: 24px
+		}
+		/* .domian-block-icon {background-image:url('img/domian-block-icon.svg');width:70px;height:72px;background-size:70px 72px;margin-bottom:40px} */
+
+		.domian-block-box h1 {
+			font-weight: 400;
+			font-size: 24px;
+			color: #333;
+			margin-bottom: 10px;
+			line-height: 36px
+		}
+
+		.domian-block-text {
+			color: #2B2B2B
+		}
+
+		.domian-block-box a {
+			color: #3367D6
+		}
+
+		.domian-block-dl dt {
+			color: #222;
+			margin-bottom: 10px
+		}
+
+		.domian-block-dl {
+			margin-top: 60px
+		}
+
+		.domian-block-dl dd {
+			margin-bottom: 10px;
+			position: relative;
+			padding-left: 10px
+		}
+
+		.domian-block-dl dd:before {
+			content: '';
+			width: 5px;
+			height: 5px;
+			border-radius: 4px;
+			background-color: #333;
+			position: absolute;
+			vertical-align: middle;
+			top: 7px;
+			left: 0
+		}
+
+		.domian-block-service {
+			margin-top: 60px
+		}
+
+		.domian-block-btn,
+		.domian-block-reason-info {
+			display: none
+		}
+
+		.domian-block-reason-text {
+			color: #666
+		}
+
+		@media screen and (max-width:768px) {
+			body {
+				margin: 0 25px
+			}
+			.domian-block-dl dd:before,
+			.domian-block-dl dt,
+			.domian-block-dl-span,
+			.domian-block-reason,
+			.domian-block-service {
+				display: none
+			}
+			.domian-block-reason-info {
+				display: block;
+				font-size: 16px;
+				color: #3367D6;
+				line-height: 24px;
+				margin-top: 40px
+			}
+			.domian-block-box {
+				width: auto;
+				margin: 80px auto;
+				max-width: 310px
+			}
+			.domian-block-hidden {
+				display: none !important
+			}
+			.domian-block-show {
+				display: block !important
+			}
+			.domian-block-dl dd {
+				padding-left: 0;
+				padding-bottom: 40px
+			}
+			.domian-block-reason-text {
+				margin-top: 10px;
+				margin-bottom: 10px
+			}
+			.domian-block-btn {
+				background-color: #1973E8;
+				border-radius: 4px;
+				width: 310px;
+				height: 54px;
+				display: block;
+				color: #fff !important;
+				line-height: 54px;
+				text-align: center;
+				font-size: 14px;
+				margin: 0 auto
+			}
+			.domian-block-text {
+				color: #666
+			}
+		}
+	
+
+
+
+
+
+网站暂时无法访问
+该网站未根据工信部相关法律规则进行备案
+
+详细信息
+
+
+可能因为以下原因:
+
+原因一: 该网站未根据该网站未完成备案
+如何进行首次备案?
+
+
+原因二: 该网站已取得备案号，但尚未在腾讯云办理接入备案
+备案信息需要与接入服务商进行关联，请在腾讯云完成接入备案
+如何进行接入备案?
+
+
+原因三: 该网站可能存在不适宜传播的内容
+
+
+
+				更多备案帮助，可咨询客服
+
+隐藏详细信息
+
+
+
+
+
+		$(function () {
+			function init() {
+				$('.domian-block-reason-info').on('click', function () {
+					$('.domian-block-reason-info').removeClass('domian-block-show').addClass('domian-block-hidden');
+					$('.domian-block-hd').removeClass('domian-block-show').addClass('domian-block-hidden');
+					$('.domian-block-reason').removeClass('domian-block-hidden').addClass('domian-block-show');
+				});
+				$('.domian-block-btn').on('click', function () {
+					$('.domian-block-reason-info').removeClass('domian-block-hidden').addClass('domian-block-show');
+					$('.domian-block-hd').removeClass('domian-block-hidden').addClass('domian-block-show');
+					$('.domian-block-reason').removeClass('domian-block-show').addClass('domian-block-hidden');
+				});
+			}
+			init();
+		})
+	
+
+

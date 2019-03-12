@@ -1,0 +1,24 @@
+安装指南：
+1. 进入proxy_pool 文件夹 ，打开cmd，运行python install -r requirements.txt 
+2. 打开依赖安装包文件夹，安装里面的redis
+3. 打开依赖安装包文件夹，安装里面的visualcppbuildtools_full
+4. pip install scrapy 安装scrapy
+
+
+运行指南：
+1. 运行proxypool
+	使用pycharm 打开proxypool 文件夹，运行proxypool\\Run文件夹里面的main.py
+
+
+2. 运行sele
+	使用pycharm 打开sele文件夹 执行里面的main.py文件
+	现在使用selenium方法爬取
+
+3. 运行myscrapy
+	使用pycharm 打开myscrapy文件夹 执行里面的main.py文件
+	演示基于scrapy框架的爬虫
+
+4. 运行req
+	使用pycharm 打开req文件夹 执行里面的main.py文件
+	演示基于requests的爬虫
+

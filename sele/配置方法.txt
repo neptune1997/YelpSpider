@@ -1,0 +1,14 @@
+1. 笔记本电脑需要安装firefox浏览器
+2. 在电脑的环境变量 Path中添加geckodriver.exe文件所在的路径
+	文件请在网站 https://github.com/mozilla/geckodriver/releases下载相应版本
+3. 安装python3
+	安装好之后转到sele目录下执行
+	pip install -r requirements.txt
+4. 在sele目录下执行
+	python main.py 开始爬去数据
+	由于数据库中已经存在 数据，所以爬取时会出现数据库的插入数据错误报错，忽略即可
+
+5. 查询数据库目前的数据条目数量
+	实例化database类
+	db = database()
+	db.count ##数据库数据条目数
